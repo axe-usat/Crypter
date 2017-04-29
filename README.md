@@ -1,6 +1,6 @@
 ![ScreenShot](http://www.freeiconspng.com/uploads/encryption-icon-11.png)  
   
-[![Build Status](https://travis-ci.org/Tlgyt/Crypter.svg?branch=master)](https://travis-ci.org/Tlgyt/Crypter)   [![Code Triagers Badge](https://www.codetriage.com/tlgyt/crypter/badges/users.svg)](https://www.codetriage.com/tlgyt/crypter)
+[![GitHub release](https://img.shields.io/badge/Release-1.0.0-brightgreen.svg)](https://github.com/Tlgyt/Crypter/releases/latest)   [![Build Status](https://travis-ci.org/Tlgyt/Crypter.svg?branch=master)](https://travis-ci.org/Tlgyt/Crypter)   [![Code Triagers Badge](https://www.codetriage.com/tlgyt/crypter/badges/users.svg)](https://www.codetriage.com/tlgyt/crypter)
    
 <h1 align=center>Yattaze's Crypter v1.0.0</h1> <p> 
 A proof of concept crypter written in c#, probaly not actually any good 
