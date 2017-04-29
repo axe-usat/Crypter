@@ -2,9 +2,9 @@
   
 [![Build Status](https://travis-ci.org/Tlgyt/Crypter.svg?branch=master)](https://travis-ci.org/Tlgyt/Crypter)   [![Code Triagers Badge](https://www.codetriage.com/tlgyt/crypter/badges/users.svg)](https://www.codetriage.com/tlgyt/crypter)
    
-<h1 align=center>Yattaze's Crypter v1.0.0</h1>  
+<h1 align=center>Yattaze's Crypter v1.0.0</h1> <p> 
 A proof of concept crypter written in c#, probaly not actually any good 
-at hiding a executable from a decent antivirus (subject to change)   
+at hiding a executable from a decent antivirus (subject to change)</p>   
 ### Features:
 1. Custom icon support   
 2. Encryption key generator  
