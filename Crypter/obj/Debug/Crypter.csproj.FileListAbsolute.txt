@@ -1,0 +1,3 @@
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\Crypter\bin\Debug\Crypter.exe.config
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\Crypter\obj\Debug\Crypter.exe
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\Crypter\obj\Debug\Crypter.pdb

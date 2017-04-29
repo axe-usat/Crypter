@@ -1,0 +1,8 @@
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\bin\Release\Crypter.exe.config
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\bin\Release\Crypter.exe
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\bin\Release\Crypter.pdb
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\obj\Release\Crypter.Form1.resources
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\obj\Release\Crypter.Properties.Resources.resources
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\obj\Release\CrypterExample.csproj.GenerateResource.Cache
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\obj\Release\Crypter.exe
+C:\Users\Arthur\Documents\Programming\C!C++\Crypter\CrypterExample\obj\Release\Crypter.pdb
