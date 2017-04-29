@@ -1,4 +1,7 @@
-![ScreenShot](http://www.freeiconspng.com/uploads/encryption-icon-11.png)
+![ScreenShot](http://www.freeiconspng.com/uploads/encryption-icon-11.png)  
+  
+[![Build Status](https://travis-ci.org/Tlgyt/Crypter.svg?branch=master)](https://travis-ci.org/Tlgyt/Crypter)  
+  
 <h1 align=center>Yattaze's Crypter v1.0.0</h1>  
 A proof of concept crypter written in c#, probaly not actually any good 
 at hiding a executable from a decent antivirus (subject to change)   
